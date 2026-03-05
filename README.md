@@ -49,7 +49,7 @@ physical consistency.
 ## 🛠 How to Run
 
 1.  Clone the repository: git clone
-    https://github.com/yourusername/your-repo-name.git
+    https://chihebbhy.github.io/Solar-System-Simulation/
 
 2.  Open `index.html` in your browser.
 
